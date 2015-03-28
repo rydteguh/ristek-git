@@ -1,1 +1,3 @@
 Hello , git
+My name is teguh
+forgot somtehing
